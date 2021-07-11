@@ -71,7 +71,6 @@ export default {
 
 <style lang="css">
   .custom-container{
-    padding:0;
     height:100vh;
     display:flex;
     flex-direction:column;
