@@ -31,4 +31,4 @@ This project was done for Storespy Frontend Interview.
 
  ## Preview
 
- You can preview this project [here]() 
+ You can preview this project [here](https://storespy-challenge.netlify.app/) 
